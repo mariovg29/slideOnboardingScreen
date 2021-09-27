@@ -15,7 +15,7 @@ class LoginScreen extends StatefulWidget {
 }
 
 class _LoginScreenState extends State<LoginScreen> {
-int _currentPageIndex=1;
+int _currentPageIndex=0;
 
   @override
   Widget build(BuildContext context) {
